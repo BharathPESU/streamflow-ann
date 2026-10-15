@@ -296,8 +296,8 @@ print("Models successfully loaded and ready for inference!")
 ---
 
 ## 9. Team
-* **Chathurth**: `PES1UG24CS563`
-* **Bharath CD**: `PES1UG24CS562`
+* **Chathurth (PES1UG24CS563)**
+* **Bharath CD, PES1UG24CS562**
 * **Course**: UE24CS352A - Machine Learning Mini-Project
 * **Repository**: [https://github.com/BharathPESU/streamflow-ann.git](https://github.com/BharathPESU/streamflow-ann.git)
 
