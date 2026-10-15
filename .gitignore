@@ -2,4 +2,31 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .venv/
+
 # raw data is small; keep it committed so the project is reproducible
+
+# Agent & Automation Skills
+.agents/
+
+# Node.js & PPTX Generator Script
+node_modules/
+package.json
+package-lock.json
+generate_deck.js
+
+# Office & LibreOffice Temporary / Lock Files
+.~lock.*#
+reports/thumb.jpg
+
+# LaTeX Compilation Artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Editor & OS Artifacts
+.DS_Store
+.vscode/
+*.swp
