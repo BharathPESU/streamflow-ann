@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+# raw data is small; keep it committed so the project is reproducible
